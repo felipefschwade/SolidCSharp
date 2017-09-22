@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula2AcoplamentoEEstabilida
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula4Encapsulamento", "Aula4Encapsulamento\Aula4Encapsulamento.csproj", "{503C829A-9287-4824-957F-AD75BA641A3D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiskovSubstitutive Principle", "LiskovSubstitutive Principle\LiskovSubstitutive Principle.csproj", "{7221596B-DB35-4386-980E-650507861C4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{503C829A-9287-4824-957F-AD75BA641A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{503C829A-9287-4824-957F-AD75BA641A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{503C829A-9287-4824-957F-AD75BA641A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7221596B-DB35-4386-980E-650507861C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7221596B-DB35-4386-980E-650507861C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7221596B-DB35-4386-980E-650507861C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7221596B-DB35-4386-980E-650507861C4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
